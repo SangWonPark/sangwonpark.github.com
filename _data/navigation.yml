@@ -7,9 +7,9 @@ main:
   - title: "Tag"
     url: /tags/
   - title: "Posts"
-    url: /posts/
+    url: /_posts/
   - title: "Pages"
-    url: /pages/
+    url: /_pages/
 
 #   - title: "Quick-Start Guide"
 #     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
