@@ -1,7 +1,7 @@
 ---
 title: "네트워크:PC간 통신이 이루어지는 과정과 방식에 대하여"
 categories:
-  - 네트워크
+  - network
 tags:
   - LAN
   - MAC Address
