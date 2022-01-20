@@ -1,5 +1,6 @@
 ---
 title: "GITBLOG: 로컬 개발환경 bundle 에러 해결 for MAC OS"
+date: 2022-01-20
 last_modified_at: 2022-01-20T19:00:00
 header:
   overlay_color: "#B8860B"
@@ -38,7 +39,7 @@ An error occurred while installing eventmachine (1.2.7), and Bundler cannot cont
 ```
 
 #### 해결방법
-ruby를 재설치하며 해결했다.
+ruby를 재설치하여 해결했습니다.
 
 ```bash
 $ brew install ruby
@@ -56,4 +57,4 @@ For compilers to find ruby you may need to set:
 
 위와같이 제공된 ruby 를 PATH에 등록하는 명령어 수행 후
 
-컴파일러가 ruby를 인식할 수 있도록 그 다음 제시된 명령어를 입력하고, .zshrc 파일에 추가로 등록해준다.
+컴파일러가 ruby를 인식할 수 있도록 그 다음 제시된 명령어를 입력하고, .zshrc 파일에 추가로 등록해줍니다.

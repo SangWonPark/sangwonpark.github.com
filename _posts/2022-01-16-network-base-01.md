@@ -1,5 +1,6 @@
 ---
 title: "네트워크: PC간 통신이 이루어지는 과정과 방식에 대하여"
+date: 2022-01-16
 last_modified_at: 2022-01-20T19:00:00
 header:
   overlay_color: "#333"
