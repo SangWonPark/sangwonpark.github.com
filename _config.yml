@@ -103,13 +103,10 @@ analytics:
 author:
   name             : "박상원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "공부하는 개발자"
   location         : "Republic of Korea"
   email            : "sangwonpark93@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sangwonpark93@gmail.com"
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
