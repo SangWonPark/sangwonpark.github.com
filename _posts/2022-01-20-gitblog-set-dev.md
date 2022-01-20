@@ -1,7 +1,10 @@
 ---
 title: "GITBLOG: 로컬 개발환경 bundle 에러 해결 for MAC OS"
+last_modified_at: 2022-01-20T19:00:00
 header:
   overlay_color: "#333"
+layout: single
+classes: wide
 categories:
   - gitblog
 tags:
@@ -14,11 +17,14 @@ toc_sticky: true
 toc_label: "목차"
 ---
 
+> MAC에서 gitblog 개발환경을 구성하며 마주했던 에러를 해결한 과정을 정리해보았다.
+
 ### 개발환경
 
 운영체제: macOS 12.0.1(Monterey)
 
 ### 발생원인
+
 ```bash
 $ bundle
 ```
@@ -31,6 +37,8 @@ An error occurred while installing eventmachine (1.2.7), and Bundler cannot cont
 ```
 
 ### 해결방법
+ruby를 재설치하며 해결했다.
+
 ```bash
 $ brew install ruby
 
