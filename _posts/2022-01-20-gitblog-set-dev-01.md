@@ -20,25 +20,25 @@ toc_label: "목차"
 
 _MAC에서 gitblog 개발환경을 구성하며 마주했던 에러를 해결한 과정을 정리해보았다._
 
-#### 개발환경
+## 1. 개발환경
 
 운영체제: macOS 12.0.1(Monterey)
 
-#### 발생원인
+## 2. 발생원인
 
-##### - 실행 명령어
+### - 실행 명령어
 ```bash
 $ bundle
 ```
 
-##### - 에러메시지
+### - 에러메시지
 ```liquid
 Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
 ...
 An error occurred while installing eventmachine (1.2.7), and Bundler cannot continue.
 ```
 
-#### 해결방법
+## 3. 해결방법
 ruby를 재설치하여 해결했습니다.
 
 ```bash
