@@ -21,11 +21,11 @@ toc_label: "목차"
 
 _로컬에서 테스트 후 배포하기 위해 로컬에 개발환경을 구성해보았습니다._
 
-#### 개발환경
+## 1. 개발환경
 
 운영체제: macOS 12.0.1(Monterey)
 
-#### jekyll 설치 및 실행
+## 2. jekyll 설치 및 실행
 ```bash
 # jekyll 설치
 $ gem install --user-install bundler jekyll
