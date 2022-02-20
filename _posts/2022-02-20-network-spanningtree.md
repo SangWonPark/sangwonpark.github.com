@@ -1,7 +1,7 @@
 ---
 title: "네트워크: 스패닝 트리 프로토콜(STP)"
-date: 2022-02-20
-last_modified_at: 2022-02-20
+date: 2022-02-20T16:03:00
+last_modified_at: 2022-02-20T16:03:00
 header:
   overlay_color: "#5F9EA0"
 layout: single
