@@ -1,13 +1,8 @@
 ---
 title: "Cooking Log Privacy Policy"
 permalink: /cooking-log/privacy-policy/en/
-layout: single
-author_profile: false
-sidebar: false
-comments: false
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
+layout: document
+lang: en
 ---
 
 > **Language**: [한국어](/cooking-log/privacy-policy/ko/) | **English** | [日本語](/cooking-log/privacy-policy/ja/)
